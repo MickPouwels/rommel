@@ -5,4 +5,8 @@ git clone https://github.com/MickPouwels/rommel.git
 
 git status
 
+
+git add commands.txt
 git commit -m "initial commit" commands.txt
+
+git push -u origin master
