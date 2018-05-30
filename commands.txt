@@ -1,0 +1,8 @@
+git config --global user.name "MickPouwels"
+git config --global user.email mick.pouwels@gmail.com
+
+git clone https://github.com/MickPouwels/rommel.git
+
+git status
+
+git commit -m "initial commit" commands.txt
